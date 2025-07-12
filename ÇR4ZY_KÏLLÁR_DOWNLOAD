@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-bar_width=20
+bar_width=30
 filesize=5286  # MB
 download_speed=201  # MBps
 filename="ÇR4ZY_KÏLLÁR.sh"
@@ -61,3 +61,4 @@ clear
 sleep 2
 
 echo -e "\e[32mNungguin ya... XD\e[0m"
+sleep 2
