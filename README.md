@@ -1,5 +1,5 @@
 # ÇR4ZY_KÏLLÁR
-This is A Prank, Just Paste This command "command" And you will see ÇR4ZY_KÏLLÁR destroying your device😈 XD
+This is A Prank, Just Paste This command "command" And you will see ÇR4ZY_KÏLLÁR destroying your device😈 XD.
 Share to your Friend, tell them "paste this command on termux, it's very cool" XD.
 
 
