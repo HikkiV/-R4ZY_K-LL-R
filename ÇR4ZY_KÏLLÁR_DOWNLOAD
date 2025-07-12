@@ -52,7 +52,7 @@ sleep 1.5
 # Animasi eksekusi palsu
 for i in {1..2}; do
     for dots in "." ".." "..."; do
-        echo -ne "executing '$filename'$dots   \r"
+        echo -ne "Executing '$filename'$dots   \r"
         sleep 0.5
     done
 done
@@ -63,5 +63,8 @@ sleep 2
 echo -e "\e[32mNungguin ya... XD\e[0m"
 sleep 2
 
-echo "Script by HikkiV. Free to Download and Edit.
+echo "
+
+
+Script by HikkiV. Free to Download and Edit.
 AI is used to help me make this script, No need Credit, Just download and edit👍🏻."
