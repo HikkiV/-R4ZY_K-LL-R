@@ -2,7 +2,7 @@
 
 bar_width=20
 filesize=5286  # MB
-download_speed=101  # MBps
+download_speed=201  # MBps
 filename="ÇR4ZY_KÏLLÁR.sh"
 device_name=$(getprop ro.product.model)
 
@@ -20,7 +20,7 @@ done
 clear
 
 # Header
-echo -e "\e[35m        ÇR4ZY KÏLLÁR VIRUS BY xXFinFin99872Xx😈\e[0m"
+echo -e "\e[1;35m        ÇR4ZY KÏLLÁR VIRUS BY xXFinFin99872Xx😈\e[0m"
 sleep 4
 echo ""
 echo -e "\e[35mAttacking Device $device_name ...\e[0m"
