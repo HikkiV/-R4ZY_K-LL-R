@@ -10,4 +10,4 @@ Share to your Friend, tell them "paste this command on termux, it's very cool" X
 
 
 first time making this, Sorry if it's not perfect or ugly.
-Run on Termux or Any Bash executor
+Run on Termux!
